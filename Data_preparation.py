@@ -20,6 +20,9 @@ from sklearn.metrics import r2_score
 
 ## Define funcitons to discribe shares of different parameters for furture flows
 
+stock_df = stock_df.pickle
+
+
 sheet_to_df_map = pd.read_excel("/Users/fernaag/Box/BATMAN/Data/Fleet/Eric's_database/Vehicle_fleet_data.xlsx", sheet_name=None)
 # Keys are: (['TOC', 'stocks', 'stocks_metadata', 'flows', 'flows_metadata', 'geography_metadata', 'process_metadata', 
 # 'class_metadata', 'motor_energy_metadata', 'segment_metadata', 'unit_metadata', 'notebook_metadata', 'source', 'Potential_sources'])
