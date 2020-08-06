@@ -1,0 +1,399 @@
+"11823: Registered vehicles, by contents, type of fuel and year"
+
+"contents";"type of fuel";"year";"11823: Registered vehicles,"
+"Private cars";"Petrol";"2016";1196148
+"Private cars";"Petrol";"2017";1139998
+"Private cars";"Petrol";"2018";1075179
+"Private cars";"Petrol";"2019";1031207
+"Private cars";"Diesel";"2016";1276947
+"Private cars";"Diesel";"2017";1294493
+"Private cars";"Diesel";"2018";1290442
+"Private cars";"Diesel";"2019";1281019
+"Private cars";"Paraffin";"2016";9
+"Private cars";"Paraffin";"2017";8
+"Private cars";"Paraffin";"2018";11
+"Private cars";"Paraffin";"2019";13
+"Private cars";"Gas";"2016";116
+"Private cars";"Gas";"2017";169
+"Private cars";"Gas";"2018";223
+"Private cars";"Gas";"2019";233
+"Private cars";"Electricity";"2016";97532
+"Private cars";"Electricity";"2017";138983
+"Private cars";"Electricity";"2018";195351
+"Private cars";"Electricity";"2019";260692
+"Private cars";"Hydrogen";"2016";41
+"Private cars";"Hydrogen";"2017";98
+"Private cars";"Hydrogen";"2018";140
+"Private cars";"Hydrogen";"2019";146
+"Private cars";"Petrol hybrid, chargeable";"2016";32251
+"Private cars";"Petrol hybrid, chargeable";"2017";62580
+"Private cars";"Petrol hybrid, chargeable";"2018";89657
+"Private cars";"Petrol hybrid, chargeable";"2019";108575
+"Private cars";"Petrol hybrid, non-chargeable";"2016";55483
+"Private cars";"Petrol hybrid, non-chargeable";"2017";76070
+"Private cars";"Petrol hybrid, non-chargeable";"2018";92144
+"Private cars";"Petrol hybrid, non-chargeable";"2019";108971
+"Private cars";"Diesel hybrid, chargeable";"2016";2180
+"Private cars";"Diesel hybrid, chargeable";"2017";4735
+"Private cars";"Diesel hybrid, chargeable";"2018";6476
+"Private cars";"Diesel hybrid, chargeable";"2019";7467
+"Private cars";"Diesel hybrid, non-chargeable";"2016";1058
+"Private cars";"Diesel hybrid, non-chargeable";"2017";1107
+"Private cars";"Diesel hybrid, non-chargeable";"2018";1192
+"Private cars";"Diesel hybrid, non-chargeable";"2019";1722
+"Private cars";"Other fuel";"2016";41
+"Private cars";"Other fuel";"2017";40
+"Private cars";"Other fuel";"2018";41
+"Private cars";"Other fuel";"2019";45
+"Ambulances";"Petrol";"2016";99
+"Ambulances";"Petrol";"2017";88
+"Ambulances";"Petrol";"2018";85
+"Ambulances";"Petrol";"2019";88
+"Ambulances";"Diesel";"2016";1005
+"Ambulances";"Diesel";"2017";1026
+"Ambulances";"Diesel";"2018";1007
+"Ambulances";"Diesel";"2019";1030
+"Ambulances";"Paraffin";"2016";0
+"Ambulances";"Paraffin";"2017";0
+"Ambulances";"Paraffin";"2018";0
+"Ambulances";"Paraffin";"2019";0
+"Ambulances";"Gas";"2016";0
+"Ambulances";"Gas";"2017";0
+"Ambulances";"Gas";"2018";0
+"Ambulances";"Gas";"2019";0
+"Ambulances";"Electricity";"2016";0
+"Ambulances";"Electricity";"2017";0
+"Ambulances";"Electricity";"2018";0
+"Ambulances";"Electricity";"2019";0
+"Ambulances";"Hydrogen";"2016";0
+"Ambulances";"Hydrogen";"2017";0
+"Ambulances";"Hydrogen";"2018";0
+"Ambulances";"Hydrogen";"2019";0
+"Ambulances";"Petrol hybrid, chargeable";"2016";0
+"Ambulances";"Petrol hybrid, chargeable";"2017";0
+"Ambulances";"Petrol hybrid, chargeable";"2018";0
+"Ambulances";"Petrol hybrid, chargeable";"2019";0
+"Ambulances";"Petrol hybrid, non-chargeable";"2016";0
+"Ambulances";"Petrol hybrid, non-chargeable";"2017";0
+"Ambulances";"Petrol hybrid, non-chargeable";"2018";0
+"Ambulances";"Petrol hybrid, non-chargeable";"2019";0
+"Ambulances";"Diesel hybrid, chargeable";"2016";0
+"Ambulances";"Diesel hybrid, chargeable";"2017";0
+"Ambulances";"Diesel hybrid, chargeable";"2018";0
+"Ambulances";"Diesel hybrid, chargeable";"2019";0
+"Ambulances";"Diesel hybrid, non-chargeable";"2016";0
+"Ambulances";"Diesel hybrid, non-chargeable";"2017";0
+"Ambulances";"Diesel hybrid, non-chargeable";"2018";0
+"Ambulances";"Diesel hybrid, non-chargeable";"2019";0
+"Ambulances";"Other fuel";"2016";0
+"Ambulances";"Other fuel";"2017";0
+"Ambulances";"Other fuel";"2018";0
+"Ambulances";"Other fuel";"2019";0
+"Buses";"Petrol";"2016";308
+"Buses";"Petrol";"2017";250
+"Buses";"Petrol";"2018";223
+"Buses";"Petrol";"2019";202
+"Buses";"Diesel";"2016";15179
+"Buses";"Diesel";"2017";14890
+"Buses";"Diesel";"2018";14391
+"Buses";"Diesel";"2019";14436
+"Buses";"Paraffin";"2016";0
+"Buses";"Paraffin";"2017";1
+"Buses";"Paraffin";"2018";1
+"Buses";"Paraffin";"2019";1
+"Buses";"Gas";"2016";701
+"Buses";"Gas";"2017";803
+"Buses";"Gas";"2018";820
+"Buses";"Gas";"2019";806
+"Buses";"Electricity";"2016";10
+"Buses";"Electricity";"2017";28
+"Buses";"Electricity";"2018";42
+"Buses";"Electricity";"2019";199
+"Buses";"Hydrogen";"2016";5
+"Buses";"Hydrogen";"2017";5
+"Buses";"Hydrogen";"2018";5
+"Buses";"Hydrogen";"2019";5
+"Buses";"Petrol hybrid, chargeable";"2016";0
+"Buses";"Petrol hybrid, chargeable";"2017";0
+"Buses";"Petrol hybrid, chargeable";"2018";0
+"Buses";"Petrol hybrid, chargeable";"2019";0
+"Buses";"Petrol hybrid, non-chargeable";"2016";0
+"Buses";"Petrol hybrid, non-chargeable";"2017";0
+"Buses";"Petrol hybrid, non-chargeable";"2018";0
+"Buses";"Petrol hybrid, non-chargeable";"2019";0
+"Buses";"Diesel hybrid, chargeable";"2016";0
+"Buses";"Diesel hybrid, chargeable";"2017";0
+"Buses";"Diesel hybrid, chargeable";"2018";1
+"Buses";"Diesel hybrid, chargeable";"2019";64
+"Buses";"Diesel hybrid, non-chargeable";"2016";54
+"Buses";"Diesel hybrid, non-chargeable";"2017";63
+"Buses";"Diesel hybrid, non-chargeable";"2018";151
+"Buses";"Diesel hybrid, non-chargeable";"2019";154
+"Buses";"Other fuel";"2016";1
+"Buses";"Other fuel";"2017";1
+"Buses";"Other fuel";"2018";0
+"Buses";"Other fuel";"2019";0
+"Vans";"Petrol";"2016";29463
+"Vans";"Petrol";"2017";26814
+"Vans";"Petrol";"2018";24765
+"Vans";"Petrol";"2019";23599
+"Vans";"Diesel";"2016";429013
+"Vans";"Diesel";"2017";440051
+"Vans";"Diesel";"2018";446237
+"Vans";"Diesel";"2019";457871
+"Vans";"Paraffin";"2016";3
+"Vans";"Paraffin";"2017";3
+"Vans";"Paraffin";"2018";4
+"Vans";"Paraffin";"2019";4
+"Vans";"Gas";"2016";394
+"Vans";"Gas";"2017";437
+"Vans";"Gas";"2018";460
+"Vans";"Gas";"2019";484
+"Vans";"Electricity";"2016";2568
+"Vans";"Electricity";"2017";3478
+"Vans";"Electricity";"2018";5314
+"Vans";"Electricity";"2019";7336
+"Vans";"Hydrogen";"2016";0
+"Vans";"Hydrogen";"2017";1
+"Vans";"Hydrogen";"2018";1
+"Vans";"Hydrogen";"2019";1
+"Vans";"Petrol hybrid, chargeable";"2016";0
+"Vans";"Petrol hybrid, chargeable";"2017";11
+"Vans";"Petrol hybrid, chargeable";"2018";30
+"Vans";"Petrol hybrid, chargeable";"2019";39
+"Vans";"Petrol hybrid, non-chargeable";"2016";55
+"Vans";"Petrol hybrid, non-chargeable";"2017";57
+"Vans";"Petrol hybrid, non-chargeable";"2018";59
+"Vans";"Petrol hybrid, non-chargeable";"2019";57
+"Vans";"Diesel hybrid, chargeable";"2016";0
+"Vans";"Diesel hybrid, chargeable";"2017";0
+"Vans";"Diesel hybrid, chargeable";"2018";0
+"Vans";"Diesel hybrid, chargeable";"2019";0
+"Vans";"Diesel hybrid, non-chargeable";"2016";0
+"Vans";"Diesel hybrid, non-chargeable";"2017";0
+"Vans";"Diesel hybrid, non-chargeable";"2018";1
+"Vans";"Diesel hybrid, non-chargeable";"2019";24
+"Vans";"Other fuel";"2016";2
+"Vans";"Other fuel";"2017";3
+"Vans";"Other fuel";"2018";2
+"Vans";"Other fuel";"2019";2
+"Combines vehicles";"Petrol";"2016";2828
+"Combines vehicles";"Petrol";"2017";2296
+"Combines vehicles";"Petrol";"2018";1969
+"Combines vehicles";"Petrol";"2019";1741
+"Combines vehicles";"Diesel";"2016";19857
+"Combines vehicles";"Diesel";"2017";17322
+"Combines vehicles";"Diesel";"2018";14942
+"Combines vehicles";"Diesel";"2019";13085
+"Combines vehicles";"Paraffin";"2016";0
+"Combines vehicles";"Paraffin";"2017";0
+"Combines vehicles";"Paraffin";"2018";0
+"Combines vehicles";"Paraffin";"2019";0
+"Combines vehicles";"Gas";"2016";3
+"Combines vehicles";"Gas";"2017";2
+"Combines vehicles";"Gas";"2018";2
+"Combines vehicles";"Gas";"2019";2
+"Combines vehicles";"Electricity";"2016";0
+"Combines vehicles";"Electricity";"2017";0
+"Combines vehicles";"Electricity";"2018";0
+"Combines vehicles";"Electricity";"2019";0
+"Combines vehicles";"Hydrogen";"2016";0
+"Combines vehicles";"Hydrogen";"2017";0
+"Combines vehicles";"Hydrogen";"2018";0
+"Combines vehicles";"Hydrogen";"2019";0
+"Combines vehicles";"Petrol hybrid, chargeable";"2016";0
+"Combines vehicles";"Petrol hybrid, chargeable";"2017";0
+"Combines vehicles";"Petrol hybrid, chargeable";"2018";0
+"Combines vehicles";"Petrol hybrid, chargeable";"2019";0
+"Combines vehicles";"Petrol hybrid, non-chargeable";"2016";5
+"Combines vehicles";"Petrol hybrid, non-chargeable";"2017";4
+"Combines vehicles";"Petrol hybrid, non-chargeable";"2018";3
+"Combines vehicles";"Petrol hybrid, non-chargeable";"2019";2
+"Combines vehicles";"Diesel hybrid, chargeable";"2016";0
+"Combines vehicles";"Diesel hybrid, chargeable";"2017";0
+"Combines vehicles";"Diesel hybrid, chargeable";"2018";0
+"Combines vehicles";"Diesel hybrid, chargeable";"2019";0
+"Combines vehicles";"Diesel hybrid, non-chargeable";"2016";0
+"Combines vehicles";"Diesel hybrid, non-chargeable";"2017";0
+"Combines vehicles";"Diesel hybrid, non-chargeable";"2018";0
+"Combines vehicles";"Diesel hybrid, non-chargeable";"2019";0
+"Combines vehicles";"Other fuel";"2016";0
+"Combines vehicles";"Other fuel";"2017";0
+"Combines vehicles";"Other fuel";"2018";0
+"Combines vehicles";"Other fuel";"2019";0
+"Lorries";"Petrol";"2016";3420
+"Lorries";"Petrol";"2017";3037
+"Lorries";"Petrol";"2018";2689
+"Lorries";"Petrol";"2019";2479
+"Lorries";"Diesel";"2016";71476
+"Lorries";"Diesel";"2017";70375
+"Lorries";"Diesel";"2018";69297
+"Lorries";"Diesel";"2019";69036
+"Lorries";"Paraffin";"2016";20
+"Lorries";"Paraffin";"2017";22
+"Lorries";"Paraffin";"2018";20
+"Lorries";"Paraffin";"2019";24
+"Lorries";"Gas";"2016";253
+"Lorries";"Gas";"2017";304
+"Lorries";"Gas";"2018";319
+"Lorries";"Gas";"2019";443
+"Lorries";"Electricity";"2016";2
+"Lorries";"Electricity";"2017";1
+"Lorries";"Electricity";"2018";13
+"Lorries";"Electricity";"2019";21
+"Lorries";"Hydrogen";"2016";0
+"Lorries";"Hydrogen";"2017";0
+"Lorries";"Hydrogen";"2018";0
+"Lorries";"Hydrogen";"2019";1
+"Lorries";"Petrol hybrid, chargeable";"2016";0
+"Lorries";"Petrol hybrid, chargeable";"2017";0
+"Lorries";"Petrol hybrid, chargeable";"2018";0
+"Lorries";"Petrol hybrid, chargeable";"2019";0
+"Lorries";"Petrol hybrid, non-chargeable";"2016";0
+"Lorries";"Petrol hybrid, non-chargeable";"2017";1
+"Lorries";"Petrol hybrid, non-chargeable";"2018";1
+"Lorries";"Petrol hybrid, non-chargeable";"2019";1
+"Lorries";"Diesel hybrid, chargeable";"2016";2
+"Lorries";"Diesel hybrid, chargeable";"2017";2
+"Lorries";"Diesel hybrid, chargeable";"2018";2
+"Lorries";"Diesel hybrid, chargeable";"2019";2
+"Lorries";"Diesel hybrid, non-chargeable";"2016";14
+"Lorries";"Diesel hybrid, non-chargeable";"2017";16
+"Lorries";"Diesel hybrid, non-chargeable";"2018";18
+"Lorries";"Diesel hybrid, non-chargeable";"2019";18
+"Lorries";"Other fuel";"2016";51
+"Lorries";"Other fuel";"2017";50
+"Lorries";"Other fuel";"2018";46
+"Lorries";"Other fuel";"2019";53
+"Mopeds";"Petrol";"2016";175459
+"Mopeds";"Petrol";"2017";168959
+"Mopeds";"Petrol";"2018";160373
+"Mopeds";"Petrol";"2019";155550
+"Mopeds";"Diesel";"2016";1781
+"Mopeds";"Diesel";"2017";1745
+"Mopeds";"Diesel";"2018";1678
+"Mopeds";"Diesel";"2019";1825
+"Mopeds";"Paraffin";"2016";0
+"Mopeds";"Paraffin";"2017";0
+"Mopeds";"Paraffin";"2018";0
+"Mopeds";"Paraffin";"2019";0
+"Mopeds";"Gas";"2016";0
+"Mopeds";"Gas";"2017";0
+"Mopeds";"Gas";"2018";0
+"Mopeds";"Gas";"2019";0
+"Mopeds";"Electricity";"2016";1142
+"Mopeds";"Electricity";"2017";1294
+"Mopeds";"Electricity";"2018";1385
+"Mopeds";"Electricity";"2019";1898
+"Mopeds";"Hydrogen";"2016";0
+"Mopeds";"Hydrogen";"2017";0
+"Mopeds";"Hydrogen";"2018";0
+"Mopeds";"Hydrogen";"2019";0
+"Mopeds";"Petrol hybrid, chargeable";"2016";0
+"Mopeds";"Petrol hybrid, chargeable";"2017";0
+"Mopeds";"Petrol hybrid, chargeable";"2018";0
+"Mopeds";"Petrol hybrid, chargeable";"2019";0
+"Mopeds";"Petrol hybrid, non-chargeable";"2016";0
+"Mopeds";"Petrol hybrid, non-chargeable";"2017";0
+"Mopeds";"Petrol hybrid, non-chargeable";"2018";0
+"Mopeds";"Petrol hybrid, non-chargeable";"2019";0
+"Mopeds";"Diesel hybrid, chargeable";"2016";0
+"Mopeds";"Diesel hybrid, chargeable";"2017";0
+"Mopeds";"Diesel hybrid, chargeable";"2018";0
+"Mopeds";"Diesel hybrid, chargeable";"2019";0
+"Mopeds";"Diesel hybrid, non-chargeable";"2016";0
+"Mopeds";"Diesel hybrid, non-chargeable";"2017";0
+"Mopeds";"Diesel hybrid, non-chargeable";"2018";0
+"Mopeds";"Diesel hybrid, non-chargeable";"2019";0
+"Mopeds";"Other fuel";"2016";0
+"Mopeds";"Other fuel";"2017";0
+"Mopeds";"Other fuel";"2018";0
+"Mopeds";"Other fuel";"2019";0
+"Light motor cycles";"Petrol";"2016";24725
+"Light motor cycles";"Petrol";"2017";25863
+"Light motor cycles";"Petrol";"2018";26670
+"Light motor cycles";"Petrol";"2019";28122
+"Light motor cycles";"Diesel";"2016";2
+"Light motor cycles";"Diesel";"2017";2
+"Light motor cycles";"Diesel";"2018";2
+"Light motor cycles";"Diesel";"2019";2
+"Light motor cycles";"Paraffin";"2016";0
+"Light motor cycles";"Paraffin";"2017";0
+"Light motor cycles";"Paraffin";"2018";0
+"Light motor cycles";"Paraffin";"2019";0
+"Light motor cycles";"Gas";"2016";0
+"Light motor cycles";"Gas";"2017";0
+"Light motor cycles";"Gas";"2018";0
+"Light motor cycles";"Gas";"2019";0
+"Light motor cycles";"Electricity";"2016";65
+"Light motor cycles";"Electricity";"2017";79
+"Light motor cycles";"Electricity";"2018";81
+"Light motor cycles";"Electricity";"2019";98
+"Light motor cycles";"Hydrogen";"2016";0
+"Light motor cycles";"Hydrogen";"2017";0
+"Light motor cycles";"Hydrogen";"2018";0
+"Light motor cycles";"Hydrogen";"2019";0
+"Light motor cycles";"Petrol hybrid, chargeable";"2016";0
+"Light motor cycles";"Petrol hybrid, chargeable";"2017";0
+"Light motor cycles";"Petrol hybrid, chargeable";"2018";0
+"Light motor cycles";"Petrol hybrid, chargeable";"2019";0
+"Light motor cycles";"Petrol hybrid, non-chargeable";"2016";0
+"Light motor cycles";"Petrol hybrid, non-chargeable";"2017";0
+"Light motor cycles";"Petrol hybrid, non-chargeable";"2018";0
+"Light motor cycles";"Petrol hybrid, non-chargeable";"2019";0
+"Light motor cycles";"Diesel hybrid, chargeable";"2016";0
+"Light motor cycles";"Diesel hybrid, chargeable";"2017";0
+"Light motor cycles";"Diesel hybrid, chargeable";"2018";0
+"Light motor cycles";"Diesel hybrid, chargeable";"2019";0
+"Light motor cycles";"Diesel hybrid, non-chargeable";"2016";0
+"Light motor cycles";"Diesel hybrid, non-chargeable";"2017";0
+"Light motor cycles";"Diesel hybrid, non-chargeable";"2018";0
+"Light motor cycles";"Diesel hybrid, non-chargeable";"2019";0
+"Light motor cycles";"Other fuel";"2016";0
+"Light motor cycles";"Other fuel";"2017";1
+"Light motor cycles";"Other fuel";"2018";1
+"Light motor cycles";"Other fuel";"2019";1
+"Heavy motor cycles";"Petrol";"2016";157668
+"Heavy motor cycles";"Petrol";"2017";162477
+"Heavy motor cycles";"Petrol";"2018";164180
+"Heavy motor cycles";"Petrol";"2019";168506
+"Heavy motor cycles";"Diesel";"2016";45
+"Heavy motor cycles";"Diesel";"2017";47
+"Heavy motor cycles";"Diesel";"2018";48
+"Heavy motor cycles";"Diesel";"2019";53
+"Heavy motor cycles";"Paraffin";"2016";0
+"Heavy motor cycles";"Paraffin";"2017";0
+"Heavy motor cycles";"Paraffin";"2018";0
+"Heavy motor cycles";"Paraffin";"2019";1
+"Heavy motor cycles";"Gas";"2016";1
+"Heavy motor cycles";"Gas";"2017";1
+"Heavy motor cycles";"Gas";"2018";1
+"Heavy motor cycles";"Gas";"2019";1
+"Heavy motor cycles";"Electricity";"2016";1494
+"Heavy motor cycles";"Electricity";"2017";1581
+"Heavy motor cycles";"Electricity";"2018";1545
+"Heavy motor cycles";"Electricity";"2019";1680
+"Heavy motor cycles";"Hydrogen";"2016";0
+"Heavy motor cycles";"Hydrogen";"2017";0
+"Heavy motor cycles";"Hydrogen";"2018";0
+"Heavy motor cycles";"Hydrogen";"2019";0
+"Heavy motor cycles";"Petrol hybrid, chargeable";"2016";0
+"Heavy motor cycles";"Petrol hybrid, chargeable";"2017";0
+"Heavy motor cycles";"Petrol hybrid, chargeable";"2018";0
+"Heavy motor cycles";"Petrol hybrid, chargeable";"2019";0
+"Heavy motor cycles";"Petrol hybrid, non-chargeable";"2016";4
+"Heavy motor cycles";"Petrol hybrid, non-chargeable";"2017";3
+"Heavy motor cycles";"Petrol hybrid, non-chargeable";"2018";3
+"Heavy motor cycles";"Petrol hybrid, non-chargeable";"2019";3
+"Heavy motor cycles";"Diesel hybrid, chargeable";"2016";0
+"Heavy motor cycles";"Diesel hybrid, chargeable";"2017";0
+"Heavy motor cycles";"Diesel hybrid, chargeable";"2018";0
+"Heavy motor cycles";"Diesel hybrid, chargeable";"2019";0
+"Heavy motor cycles";"Diesel hybrid, non-chargeable";"2016";0
+"Heavy motor cycles";"Diesel hybrid, non-chargeable";"2017";0
+"Heavy motor cycles";"Diesel hybrid, non-chargeable";"2018";0
+"Heavy motor cycles";"Diesel hybrid, non-chargeable";"2019";0
+"Heavy motor cycles";"Other fuel";"2016";6
+"Heavy motor cycles";"Other fuel";"2017";5
+"Heavy motor cycles";"Other fuel";"2018";5
+"Heavy motor cycles";"Other fuel";"2019";5
