@@ -19,8 +19,10 @@ from scipy.stats import gompertz
 from sklearn.metrics import r2_score
 
 ## Define funcitons to discribe shares of different parameters for furture flows
+stock_pickle = pd.read_pickle(stock_df.pickle)
 
-stock_df = stock_df.pickle
+test = 1
+
 
 
 sheet_to_df_map = pd.read_excel("/Users/fernaag/Box/BATMAN/Data/Fleet/Eric's_database/Vehicle_fleet_data.xlsx", sheet_name=None)
